@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "659ebb1854192709938b5c8b"
+  },
+  "name": "Classic Watch",
+  "group": "Wristwatch",
+  "colour": "Silver",
+  "details": "Stainless steel case, analog display, water-resistant",
+  "__v": 0,
+  "price": 500
+},{
+  "_id": {
+    "$oid": "659ec06fab0289b811277ab8"
+  },
+  "name": "Elegant Watch",
+  "group": "Luxury",
+  "colour": "Silver",
+  "details": "Stainless steel case with sapphire crystal, water-resistant up to 50 meters.",
+  "price": 433,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "659ec098ab0289b811277aba"
+  },
+  "name": "Sports Watch",
+  "group": "Sports",
+  "colour": "Black",
+  "details": "Durable sports watch with a rubber strap, suitable for outdoor activities.",
+  "price": 149.99,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "659ec09dab0289b811277abc"
+  },
+  "name": "Classic Chronograph",
+  "group": "Classic",
+  "colour": "Brown",
+  "details": "Vintage-style chronograph watch with leather strap and date function.",
+  "price": 229.99,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "659ec0a3ab0289b811277abe"
+  },
+  "name": "Smartwatch X",
+  "group": "Smartwatch",
+  "colour": "Rose Gold",
+  "details": "Smartwatch with fitness tracking, heart rate monitor, and customizable watch faces.",
+  "price": 199.99,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "659fdea7de30128c6ee06764"
+  },
+  "name": "Premium Watch",
+  "group": "Hand Watch",
+  "colour": "Black",
+  "details": "Vintage-style chronograph watch with leather strap and date function.",
+  "price": 5000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65fd766c276fc7d7caa555ce"
+  },
+  "name": "Rose Titanium Titan",
+  "group": "Womens Wear",
+  "colour": "Rose",
+  "details": "Titanium Titan",
+  "price": 7500
+},{
+  "_id": {
+    "$oid": "65fd766c276fc7d7caa555cf"
+  },
+  "name": "Titan Hand Watch",
+  "group": "Womens Wear",
+  "colour": "Black",
+  "details": "Hand Watch",
+  "price": 8500
+},{
+  "_id": {
+    "$oid": "65fd766c276fc7d7caa555d0"
+  },
+  "name": "Golden Wrist",
+  "group": "Womens Wear",
+  "colour": "Golden",
+  "details": "Wrist",
+  "price": 5000
+},{
+  "_id": {
+    "$oid": "65fd766c276fc7d7caa555d1"
+  },
+  "name": "Space Black Female",
+  "group": "Womens Wear",
+  "colour": "Black",
+  "details": "Space Female",
+  "price": 9500
+},{
+  "_id": {
+    "$oid": "65fd766c276fc7d7caa555d2"
+  },
+  "name": "Titan rose gold watch2",
+  "group": "Womens Wear",
+  "colour": "Rose Gold",
+  "details": "Titan Watch",
+  "price": 26500
+},{
+  "_id": {
+    "$oid": "65fd766c276fc7d7caa555d3"
+  },
+  "name": "Pure Gold Thin",
+  "group": "Womens Wear",
+  "colour": "Gold",
+  "details": "Gold Thin",
+  "price": 15500
+},{
+  "_id": {
+    "$oid": "65fd766c276fc7d7caa555d4"
+  },
+  "name": "Light Black Gold surface",
+  "group": "Kids Wear",
+  "colour": "Black",
+  "details": "Light surface",
+  "price": 750
+},{
+  "_id": {
+    "$oid": "65fd766c276fc7d7caa555d5"
+  },
+  "name": "Fastrack Analog 2",
+  "group": "Kids Wear",
+  "colour": "Fastrack",
+  "details": "Analog 2",
+  "price": 850
+},{
+  "_id": {
+    "$oid": "65fd766c276fc7d7caa555d6"
+  },
+  "name": "Titan Antique Analog",
+  "group": "Kids Wear",
+  "colour": "Titan",
+  "details": "Antique Analog",
+  "price": 500
+},{
+  "_id": {
+    "$oid": "65fd766c276fc7d7caa555d7"
+  },
+  "name": "Digital Hand 2",
+  "group": "Kids Wear",
+  "colour": "Digital",
+  "details": "Trending watch-hand 2",
+  "price": 950
+},{
+  "_id": {
+    "$oid": "65fd766c276fc7d7caa555d8"
+  },
+  "name": "Orange",
+  "group": "Kids Wear",
+  "colour": "Orange",
+  "details": "Orange watch which can glow bright",
+  "price": 26500
+},{
+  "_id": {
+    "$oid": "65fd766c276fc7d7caa555d9"
+  },
+  "name": "Black Splash Digital",
+  "group": "Kids Wear",
+  "colour": "Black",
+  "details": "Splash Digital",
+  "price": 100
+}]

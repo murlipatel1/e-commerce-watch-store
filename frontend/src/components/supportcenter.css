@@ -1,0 +1,61 @@
+.container {
+    width: 80%;
+    margin: 50px auto;
+}
+
+.sh1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.support-section {
+    background-color: #f7f7f7;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.support-section h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.support-section p {
+    color: #666;
+    line-height: 1.6;
+}
+
+.contact-button, .submit-button {
+    background-color: #ff6600;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    margin-bottom: 20px;
+}
+
+.contact-button:hover, .submit-button:hover {
+    background-color: #e65c00;
+}
+
+.contact-form {
+    /* display: none; */
+    margin-top: 20px;
+}
+
+.contact-form input[type="text"], .contact-form input[type="email"], .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.contact-form textarea {
+    height: 100px;
+}

@@ -1,0 +1,107 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #363636;
+    color: #fff;
+  }
+   */
+  .aheader {
+    background-color: #ff7f50;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    
+  }
+  .ah2{
+    margin-top: 10px;
+    color: #fff;
+  }
+  
+  .admindiv{
+    background-color: #ff7f50;
+    height: auto;
+    
+  }
+  .amain {
+    max-width: 890px;
+    margin: 0px auto;
+    background-color: #464646;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .atable {
+    width: 100%;
+    /* border-collapse: collapse; */
+    margin-top: 20px;
+    border: 1px solid #fff;
+
+  }
+
+  .ath,
+  .atd {
+    border: 1px solid #e0c4c4;
+    text-align: left;
+    padding: 10px;
+    color: #fff;
+  }
+  .athead{
+    border: 1px solid #fff;
+  }
+  .atbody , .athead{
+    color: #fff;
+    
+  }
+  .ath {
+    background-color: #ff7f50;
+    color: #fff;
+  }
+  
+  .aform {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .aform label {
+    margin-bottom: 5px;
+    color: #ff7f50;
+  }
+  
+  .aform input,
+  .aform textarea {
+    margin-bottom: 10px;
+    padding: 8px;
+    box-sizing: border-box;
+    background-color: #555;
+    color: #fff;
+    border: 1px solid #555;
+  }
+  
+  .aform button {
+    background-color: #ff7f50;
+    color: #fff;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  .aform button:hover {
+    background-color: #555;
+  }
+  
+  .delete-button {
+    background-color: #555;
+    color: #fff;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  .delete-button:hover {
+    background-color: #ff7f50;
+  }
+  

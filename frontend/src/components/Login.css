@@ -1,0 +1,39 @@
+.ldiv{
+  margin-left: -2rem;
+  background-color: #ff7f50;
+  height: 55.3rem;
+  margin-top: -7rem;
+  padding-top: 8rem;
+}  
+  .lcontainer {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #4f4c4c;
+  }
+
+  .linput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border-radius: 7%;
+  }
+  
+  .lbutton {
+    background-color: #ff7f50;
+    color: #fff;
+    border: none;
+    padding: 12px;
+    cursor: pointer;
+    border-radius: 20%;
+  }
+  
+  .lh2, .lp, .la {
+    color: #fff;
+  }
+
+
+  
