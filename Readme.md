@@ -49,7 +49,7 @@ This repository contains the backend code for a user management and e-commerce A
 6. Usage
 Send HTTP requests to the running server to interact with the API endpoints. The server will be running on http://localhost:3000 of frontend by default.
 
-##Frontend Snapshot
+## Frontend Snapshot
 
 Home Page:
 
@@ -73,4 +73,13 @@ Payment Page
 Admin Dashboard
 
 ![image](https://github.com/murlipatel1/e-commerce-watch-store/assets/100035961/b66afa3d-6212-4355-8931-9f9dba05ba5c)
+
+## Backend Snapshot
+
+![image](https://github.com/murlipatel1/e-commerce-watch-store/assets/100035961/8be245a8-faa5-4197-8594-22f7b4706e71)
+
+
+## MongoDB Snapshot
+
+![image](https://github.com/murlipatel1/e-commerce-watch-store/assets/100035961/0a21b297-c295-4cc4-832b-5268b534d155)
 
