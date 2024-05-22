@@ -23,7 +23,7 @@ function UpdateBillingAddress() {
         .then(response => {
             if (response.ok) {
                 alert('Address updated successfully!');
-                window.location.href = './payment.html';
+                window.location.href = './payment';
             } else {
                 alert('Failed to update address. Please try again.');
             }

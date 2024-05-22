@@ -30,7 +30,7 @@ function AdminLoginSignup() {
         if (response.ok) {
           localStorage.setItem('adminToken', data.token);
           alert('Login successful!');
-          window.location.href = './admin_administration.html';
+          window.location.href = './admin';
           // Redirect or perform other actions after successful login
         } else {
           alert('Login failed. Invalid credentials.');

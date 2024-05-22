@@ -317,7 +317,7 @@ const Home = () => {
                       <a href="./supportcenter" class="footer__link">Customer Support</a>
                   </li>
                   <li>
-                      <a href="./cusotmer_feedback.html" class="footer__link">Cunstomer Feedback</a>
+                      <a href="./cusotmer_feedback" class="footer__link">Cunstomer Feedback</a>
                   </li>
                   <li>
                       <a href="#" class="footer__link">Copy Right</a>
